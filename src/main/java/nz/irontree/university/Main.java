@@ -1,6 +1,7 @@
 package nz.irontree.university;
 
 import nz.irontree.university.entities.*;
+import nz.irontree.university.service.LessonExecutor;
 
 public class Main {
     public static void main(String[] args) {
