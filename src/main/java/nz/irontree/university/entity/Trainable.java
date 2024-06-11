@@ -1,4 +1,4 @@
-package nz.irontree.university.entities;
+package nz.irontree.university.entity;
 
 public interface Trainable {
 
